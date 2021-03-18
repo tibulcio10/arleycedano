@@ -1,0 +1,26 @@
+C:\Users\d19c2390\source\repos\SALA DE CHAT\bin\Debug\SALA DE CHAT.exe.config
+C:\Users\d19c2390\source\repos\SALA DE CHAT\bin\Debug\SALA DE CHAT.exe
+C:\Users\d19c2390\source\repos\SALA DE CHAT\bin\Debug\SALA DE CHAT.pdb
+C:\Users\d19c2390\source\repos\SALA DE CHAT\obj\Debug\SALA DE CHAT.csprojAssemblyReference.cache
+C:\Users\d19c2390\source\repos\SALA DE CHAT\obj\Debug\SALA_DE_CHAT.Form1.resources
+C:\Users\d19c2390\source\repos\SALA DE CHAT\obj\Debug\SALA_DE_CHAT.Properties.Resources.resources
+C:\Users\d19c2390\source\repos\SALA DE CHAT\obj\Debug\SALA DE CHAT.csproj.GenerateResource.cache
+C:\Users\d19c2390\source\repos\SALA DE CHAT\obj\Debug\SALA DE CHAT.csproj.CoreCompileInputs.cache
+C:\Users\d19c2390\source\repos\SALA DE CHAT\obj\Debug\SALA DE CHAT.exe
+C:\Users\d19c2390\source\repos\SALA DE CHAT\obj\Debug\SALA DE CHAT.pdb
+C:\Users\d19c2390\source\repos\SALA DE CHAT\bin\Debug\Transitions.dll
+C:\Users\d19c2390\source\repos\SALA DE CHAT\bin\Debug\Transitions.pdb
+C:\Users\d19c2390\source\repos\SALA DE CHAT\obj\Debug\SALA DE CHAT.csproj.CopyComplete
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\bin\Debug\SALA DE CHAT.exe.config
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\bin\Debug\SALA DE CHAT.exe
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\bin\Debug\SALA DE CHAT.pdb
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\bin\Debug\Transitions.dll
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\bin\Debug\Transitions.pdb
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\obj\Debug\SALA DE CHAT.csprojAssemblyReference.cache
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\obj\Debug\SALA_DE_CHAT.Form1.resources
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\obj\Debug\SALA_DE_CHAT.Properties.Resources.resources
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\obj\Debug\SALA DE CHAT.csproj.GenerateResource.cache
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\obj\Debug\SALA DE CHAT.csproj.CoreCompileInputs.cache
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\obj\Debug\SALA DE CHAT.csproj.CopyComplete
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\obj\Debug\SALA DE CHAT.exe
+C:\Users\xllLennox-RTXllx\Desktop\SALA DE CHAT\obj\Debug\SALA DE CHAT.pdb
